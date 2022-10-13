@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "scripts": {
+    "docs-build": "node scripts/docs-build.js",
+    "release": "node scripts/release.js",
+    "version-packages": "node scripts/version-packages.js"
+  }
+}
