@@ -5,5 +5,8 @@
     "docs-build": "node scripts/docs-build.js",
     "release": "node scripts/release.js",
     "version-packages": "node scripts/version-packages.js"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.25.0"
   }
 }
